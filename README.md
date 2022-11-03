@@ -1,6 +1,8 @@
 # Procesamiento de Imágenes por Computador 
 #### Master Universitario en Robótica y Automatización - UC3M
 
+Computer Vision basics!
+
 ## Setup
 
 First install opencv. This repo works with Ubuntu 22.04 LTS and OpenCV 4.5, anyway it should be easy to move to another version.
