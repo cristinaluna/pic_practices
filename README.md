@@ -30,3 +30,8 @@ And then...
 Now you have an executable with the exercise you compiled. 
 
 Enjoy!
+
+## TODO
+
+- [] Modify CMakeLists in order to compile all files directly
+- [] Add Python code
